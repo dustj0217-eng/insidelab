@@ -720,11 +720,11 @@ export default function Page() {
               <div className="divider" />
               <p className="intro-meta">
                 소요 시간 약 5분 · 총 36문항<br />
-                결과는 제출 후 상담사와 공유됩니다
+                결과는 제출 후 플래너와 공유됩니다
               </p>
             </div>
             <div className="admin-link-wrap">
-              <a className="admin-link" href="/admin">상담사 전용</a>
+              <a className="admin-link" href="/admin">플래너 전용</a>
             </div>
           </div>
         )}
